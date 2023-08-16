@@ -1,0 +1,203 @@
+.heading {
+color: #212529;
+text-align: center;
+font-family: "Tahoma";
+font-size: 36px;
+font-weight: 900;
+position: relative;
+top: 8px;
+}
+
+.text {
+text-align: center;
+font-family: "Segoe UI";
+font-size: 15px;
+color: black;
+position: relative;
+top: 10px;
+}
+
+.img {
+border: 0px solid #ddd;
+padding: 10px;
+width: 150px;
+margin-left: 70px;
+}
+
+.html {
+background-color: #F6F7F8;
+position:absolute;
+height:100%;
+width:100%;
+margin: 0px 0 0 0;
+}
+
+.buttonheader1 {
+background-color: transparent;
+border: 0px;
+width: 127px;
+height: 35px;
+font-family: "Segoe UI";
+font-size: 15px;
+font-stretch: 200%;
+font-weight: 390;
+position: absolute;
+top: 2%;
+left: 23%;
+transition: 550ms;
+}
+
+.buttonheader1:hover {
+background-color: white;
+color: black;
+border-radius: 12px;
+}
+
+.buttonheader2 {
+background-color: transparent;
+border: 0px;
+width: 78px;
+height: 35px;
+font-family: "Segoe UI";
+font-size: 15px;
+font-stretch: 200%;
+font-weight: 390;
+position: absolute;
+top: 2%;
+left: 34%;
+transition: 550ms;
+}
+
+.buttonheader2:hover {
+background-color: white;
+color: black;
+border-radius: 12px;
+}
+
+.buttonheader3 {
+background-color: transparent;
+border: 0px;
+width: 85px;
+height: 35px;
+font-family: "Segoe UI";
+font-size: 15px;
+font-stretch: 200%;
+font-weight: 390;
+position: absolute;
+top: 2%;
+left: 41%;
+transition: 550ms;
+}
+
+.buttonheader3:hover {
+background-color: white;
+color: black;
+border-radius: 12px;
+}
+
+.butt {
+border: 0px solid #ddd;
+padding: 0px;
+width: 30px;
+margin-left: 134px;
+top: 2%;
+position:absolute;
+	left: 2%;
+	top: 10%;
+}
+
+.cabinet {
+background-color: transparent;
+border: 0px;
+width: 175px;
+height: 35px;
+font-family: "Segoe UI";
+font-size: 15px;
+font-stretch: 200%;
+font-weight: 600;
+position: absolute;
+top: 2%;
+left: 80%;
+color: #336FEE;
+text-align: left;
+transition: 550ms;
+}
+
+.cabinet:hover {
+background-color: white;
+color: #336FEE;
+border-radius: 12px;
+}
+
+.mini1 {
+border: 0px;
+background-color: transparent;
+font-family: "Segoe UI";
+color: gray;
+width: 120px;
+margin-left:-167px;
+position:relative;
+top:40px;
+transition: 450ms;
+}
+
+.mini1:hover {
+color: black;
+transition-duration: 450ms;
+}
+
+.mini2 {
+border: 0px;
+background-color: transparent;
+font-family: "Segoe UI";
+color: gray;
+width: 530px;
+position:relative;
+left:-18px;
+top:-28px;
+transition: 450ms;
+}
+
+.mini2:hover {
+color: black;
+transition-duration: 450ms;
+}
+
+.arrow {
+font-family: "Segoe UI";
+color: #505050;
+font-weight: 550;
+position:relative;
+left:0px;
+top:7px;
+margin-left:194px;
+font-size: 14px;
+}
+
+.p {
+font-family: "Segoe UI";
+color: gray;
+text-align: center;
+font-size: 13px;
+position: relative;
+top: 10px;
+}
+
+.carta {
+border: 0px;
+background-color: #ffe030;
+min-height:50px;
+min-width: 170px;
+font-family: "Segoe UI";
+font-size: 14px;
+border-radius: 9px;
+position: absolute;
+top:44%;
+left: 43%;
+transition: 550ms;
+}
+
+.carta:hover {
+background-color: #ffc020;
+transition-duration: 550ms;
+}
