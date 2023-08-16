@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './styles/App.module.css';
 import Logo from "./Components/logo.png"
 import Icon from "./Components/butt.png"
+import Photo from "./Components/picture.png"
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <h1 className={styles.heading}>Дебетовая карта Tinkoff Black</h1>
         <p className={styles.text}>Закажите дебетовую карту с платежной системой «Мир», платите на кассе картой или переводом по номеру телефона</p>
         <button className={styles.carta}>Оформить карту</button>
+        <img src={Photo}  alt={''} className={styles.photo}/>
     </div>
   );
 }

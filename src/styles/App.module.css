@@ -192,7 +192,7 @@ font-family: "Segoe UI";
 font-size: 14px;
 border-radius: 9px;
 position: absolute;
-top:44%;
+top:45%;
 left: 43%;
 transition: 550ms;
 }
@@ -200,4 +200,14 @@ transition: 550ms;
 .carta:hover {
 background-color: #ffc020;
 transition-duration: 550ms;
+}
+
+.photo {
+border: 0px;
+display: block;
+margin-left: 9%;
+margin-right: auto;
+width: 80%;
+position: relative;
+top: 147px;
 }
